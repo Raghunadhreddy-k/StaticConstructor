@@ -19,7 +19,7 @@ namespace StaticConstructor
         }
         static student()
         {
-            college = "JNTU";
+            college = "RISE";
         }
         public void studentDisplay()
         {
